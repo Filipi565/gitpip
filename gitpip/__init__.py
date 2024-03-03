@@ -1,6 +1,6 @@
 """git pip moduule
 
-module to install modules from github"""
+module to install modules from git repositories"""
 
 from ._main import main as _main1
 import sys
