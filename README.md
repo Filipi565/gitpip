@@ -4,7 +4,7 @@ install modules from git repositories using pip module
 
 ```bash
 git clone https://github.com/Filipi565/gitpip
-pip install .\\gitpip
+pip install .\gitpip
 ```
 
 examples:
