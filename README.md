@@ -12,11 +12,11 @@ examples:
 install pitsu from the source
 
 ```bash
-gitpip https://github.com/Filipi565/pitsu
+python -m gitpip https://github.com/Filipi565/pitsu
 ```
 
 or 
 
 ```bash
-gitpip Filipi565/pitsu # only works for github repositories
+python -m gitpip Filipi565/pitsu # only works for github repositories
 ```
