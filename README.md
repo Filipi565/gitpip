@@ -18,5 +18,5 @@ gitpip https://github.com/Filipi565/pitsu
 or 
 
 ```bash
-gitpip Filipi565/pitsu # only works for github url
+gitpip Filipi565/pitsu # only works for github repositories
 ```
